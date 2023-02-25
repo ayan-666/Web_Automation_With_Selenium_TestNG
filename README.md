@@ -39,4 +39,8 @@ https://opensource-demo.orangehrmlive.com/
 
 <img width="1470" alt="5" src="https://user-images.githubusercontent.com/67514655/221340690-cc2adaa2-67a0-40c2-8903-ddbbc35ad146.png">
 
+## Output Video of the Project
+
+https://user-images.githubusercontent.com/67514655/221342165-dc0cbd47-166b-4133-8a0f-f81561993422.mp4
+
 
