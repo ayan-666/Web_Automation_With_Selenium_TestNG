@@ -21,3 +21,11 @@ https://opensource-demo.orangehrmlive.com/
 - Clone this project
 - Open it any IDE (IntelliJ)
 - Hit the command `gradle clean test`
+
+## How to Generate Allure Report
+- Give the following commands by opening terminal in the project folder to create Allure Report
+- `allure generate allure-results --clean -o allure-report`
+- `allure serve allure-results`
+
+## Selenium TestNG Automation Report Image
+
