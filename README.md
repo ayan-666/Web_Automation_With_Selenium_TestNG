@@ -29,3 +29,14 @@ https://opensource-demo.orangehrmlive.com/
 
 ## Selenium TestNG Automation Report Image
 
+<img width="1470" alt="1" src="https://user-images.githubusercontent.com/67514655/221340663-5f3a4500-cab6-45d6-b744-04e4435a70a1.png">
+
+<img width="1470" alt="2" src="https://user-images.githubusercontent.com/67514655/221340672-74ddf8ad-cd2a-44cc-a266-1cd43cfabadd.png">
+
+<img width="1470" alt="3" src="https://user-images.githubusercontent.com/67514655/221340682-88f31225-94c0-423b-82c0-4d7f30810d3c.png">
+
+<img width="1470" alt="4" src="https://user-images.githubusercontent.com/67514655/221340684-af5e4981-b0a5-4c16-851a-f4bb7c94eba7.png">
+
+<img width="1470" alt="5" src="https://user-images.githubusercontent.com/67514655/221340690-cc2adaa2-67a0-40c2-8903-ddbbc35ad146.png">
+
+
